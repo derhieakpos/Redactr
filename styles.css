@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+form{
+    margin-bottom: 20px;
+}
+.input{
+    color: black;
+    width: 50%;
+    height: auto;
+    padding: 25px;
+    margin: 10px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+#scrambled{
+    font-family: cursive;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+input[type="submit"]{
+    background-color: black;
+    color: lightblue;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor:pointer;
+}
