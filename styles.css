@@ -28,3 +28,8 @@ input[type="submit"]{
     padding: 10px 15px;
     cursor:pointer;
 }
+#redacted_text {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
