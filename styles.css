@@ -6,9 +6,9 @@ body{
 form{
     margin-bottom: 20px;
 }
-.input{
+#input{
     color: black;
-    width: 50%;
+    width: 100%;
     height: auto;
     padding: 25px;
     margin: 10px;
